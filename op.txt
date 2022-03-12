@@ -1,0 +1,47 @@
+<html>
+<body>
+
+  <style>
+   	h1{
+    	text-align: center;
+        color:black;
+        padding-top: 30px;
+        font-family: "Times New Roman", Times, serif;
+    }
+    table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+   </style>
+
+<h1>SSEMS [CBESE]<h1>
+<h1>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/M7UYpiFUQqw">
+</iframe>
+</h1>
+<h1>
+<table>
+  <tr>
+    <th>subjects</th>
+    <th>grading of 10th</th>
+    <th>education standards</th>
+    <th>labs</th>
+  </tr>
+  <tr>
+    <td>science</td>
+    <td>97%</td>
+    <td>high</td>
+    <td>yes</td>
+  </tr>
+  <tr>
+    <td>maths</td>
+    <td>96%</td>
+    <td>very high</td>
+    <td>yes</td>
+  </tr>
+</table>
+</h1>
+</body>
+</html>
+
